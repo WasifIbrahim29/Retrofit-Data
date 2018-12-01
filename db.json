@@ -1,38 +1,44 @@
 [{
-		"avatar": 0x7f07005b,
+		"avatar": 2131165275,
 		"nickname": "ANATASIA",
-		"background": 0x7f05009b,
+		"background": 2131034267,
 		"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
 	},
 	{
-		"avatar": 0x7f07005d,
+		"avatar": 2131165277,
 		"nickname": "Anfer Syed",
-		"background": 0x7f050093,
+		"background": 2131034259,
 		"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
 	}, {
-		"avatar": 0x7f070094,
+		"avatar": 2131165332,
 		"nickname": "Hamzayy",
-		"background": 0x7f050096,
+		"background": 2131034262,
 		"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
 	}, {
-		"avatar": 0x7f0700f2,
+		"avatar": 2131165382,
 		"nickname": "Paul",
-		"background": 0x7f05008a,
+		"background": 2131034195,
 		"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
 	}, {
-		"avatar": 0x7f0700c6,
+		"avatar": 2131165426,
 		"nickname": "Kate",
-		"background": 0x7f050053,
+		"background": 2131034250,
 		"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
 	}, {
-		"avatar": 0x7f070079,
+		"avatar": 2131165305,
 		"nickname": "Daria",
-		"background": 0x7f050089,
+		"background": 2131034249,
 		"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
 	}, {
-		"avatar": 0x7f0700c5,
+		"avatar": 2131165383,
 		"nickname": "Julia",
-		"background": 0x7f050053,
+		"background": 2131034262,
+		"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
+	},
+	{
+		"avatar": 2131165381,
+		"nickname": "Kirill",
+		"background": 2131034195,
 		"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
 	}
 
