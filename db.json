@@ -1,14 +1,13 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{
+		"user_id": "CLnLJH81GTZIEltq5Vrg8w8VlKf1",
+		"phone_number": "03340079954",
+		"email": "wasif.Ibrahim29@gmail.com",
+		"username": "Talha"
+	},
+	{
+		"user_id": "Diq36O61p0dXLZ0H5KabgNyU6im2",
+		"phone_number": "03176016598",
+		"email": "waaazzi1231@gmail.com",
+		"username": "Hamzay"
+	}
+]
