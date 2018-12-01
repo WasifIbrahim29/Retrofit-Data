@@ -1,13 +1,39 @@
 [{
-		"user_id": "CLnLJH81GTZIEltq5Vrg8w8VlKf1",
-		"phone_number": "03340079954",
-		"email": "wasif.Ibrahim29@gmail.com",
-		"username": "Talha"
+		"avatar": "0x7f07005b",
+		"nickname": "ANATASIA",
+		"background": "0x7f05009b",
+		"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
 	},
 	{
-		"user_id": "Diq36O61p0dXLZ0H5KabgNyU6im2",
-		"phone_number": "03176016598",
-		"email": "waaazzi1231@gmail.com",
-		"username": "Hamzay"
+		"avatar": "0x7f07005d",
+		"nickname": "Anfer Syed",
+		"background": "0x7f050093",
+		"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
+	}, {
+		"avatar": "0x7f070094",
+		"nickname": "Hamzayy",
+		"background": "0x7f050096",
+		"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
+	}, {
+		"avatar": "0x7f0700f2",
+		"nickname": "Paul",
+		"background": "0x7f05008a",
+		"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
+	}, {
+		"avatar": "0x7f0700c6",
+		"nickname": "Kate",
+		"background": "0x7f050053",
+		"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
+	}, {
+		"avatar": "0x7f070079",
+		"nickname": "Daria",
+		"background": "0x7f050089",
+		"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
+	}, {
+		"avatar": "0x7f0700c5",
+		"nickname": "Julia",
+		"background": "0x7f050053",
+		"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
 	}
+
 ]
