@@ -58,6 +58,27 @@
 				"Art",
 				"Technology"
 			]
+		}, {
+			"avatar": 2131165426,
+			"nickname": "Kate",
+			"background": 2131034250,
+			"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
+		}, {
+			"avatar": 2131165305,
+			"nickname": "Daria",
+			"background": 2131034249,
+			"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
+		}, {
+			"avatar": 2131165383,
+			"nickname": "Julia",
+			"background": 2131034262,
+			"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
+		},
+		{
+			"avatar": 2131165381,
+			"nickname": "Kirill",
+			"background": 2131034195,
+			"interests": ["Sport", "Literature", "Music", "Art", "Technology"]
 		}
 	]
 }
