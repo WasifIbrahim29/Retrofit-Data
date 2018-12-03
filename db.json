@@ -1,61 +1,63 @@
-[{
-		"avatar": 2131165275,
-		"nickname": "ANATASIA",
-		"background": 2131034267,
-		"interests": [
-			"Sport",
-			"Literature",
-			"Music",
-			"Art",
-			"Technology"
-		]
-	},
-	{
-		"avatar": 2131165277,
-		"nickname": "Anfer Syed",
-		"background": 2131034259,
-		"interests": [
-			"Sport",
-			"Literature",
-			"Music",
-			"Art",
-			"Technology"
-		]
-	},
-	{
-		"avatar": 2131165277,
-		"nickname": "Anfer Syed",
-		"background": 2131034259,
-		"interests": [
-			"Sport",
-			"Literature",
-			"Music",
-			"Art",
-			"Technology"
-		]
-	},
-	{
-		"avatar": 2131165277,
-		"nickname": "Anfer Syed",
-		"background": 2131034259,
-		"interests": [
-			"Sport",
-			"Literature",
-			"Music",
-			"Art",
-			"Technology"
-		]
-	},
-	{
-		"avatar": 2131165277,
-		"nickname": "Anfer Syed",
-		"background": 2131034259,
-		"interests": [
-			"Sport",
-			"Literature",
-			"Music",
-			"Art",
-			"Technology"
-		]
-	}
-]
+{
+	"Friend": [{
+			"avatar": 2131165275,
+			"nickname": "ANATASIA",
+			"background": 2131034267,
+			"interests": [
+				"Sport",
+				"Literature",
+				"Music",
+				"Art",
+				"Technology"
+			]
+		},
+		{
+			"avatar": 2131165277,
+			"nickname": "Anfer Syed",
+			"background": 2131034259,
+			"interests": [
+				"Sport",
+				"Literature",
+				"Music",
+				"Art",
+				"Technology"
+			]
+		},
+		{
+			"avatar": 2131165277,
+			"nickname": "Anfer Syed",
+			"background": 2131034259,
+			"interests": [
+				"Sport",
+				"Literature",
+				"Music",
+				"Art",
+				"Technology"
+			]
+		},
+		{
+			"avatar": 2131165277,
+			"nickname": "Anfer Syed",
+			"background": 2131034259,
+			"interests": [
+				"Sport",
+				"Literature",
+				"Music",
+				"Art",
+				"Technology"
+			]
+		},
+		{
+			"avatar": 2131165277,
+			"nickname": "Anfer Syed",
+			"background": 2131034259,
+			"interests": [
+				"Sport",
+				"Literature",
+				"Music",
+				"Art",
+				"Technology"
+			]
+		}
+	]
+}
